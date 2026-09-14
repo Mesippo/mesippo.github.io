@@ -3,15 +3,15 @@
 <h1 align="center">Mesippo</h1>
 
 <p align="center">
-  <img src="appleMonkeys.png" width="450" alt="NicheFruit Logo"/>
+  <img src="appleMonkeys.png" width="450" alt="mesippo Logo"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Kinda%20Active-brightgreen?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=NicheFruit&style=for-the-badge&color=red" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/NicheFruit?style=for-the-badge&logo=github"/>
+  <img src="https://komarev.com/ghpvc/?username=mesippo&style=for-the-badge&color=red" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mesippo?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -35,19 +35,19 @@ When I’m not programming or building projects, I enjoy exploring new ideas, te
 - Interests: Shi, I'll do anything.  
 - Focus: Mostly clean, scalable, object-oriented applications
 
-🔗 GitHub: [https://github.com/NicheFruit](https://github.com/NicheFruit)
+🔗 GitHub: [https://github.com/mesippo](https://github.com/mesippo)
 <br>
-💾 Itch IO: [https://nichefruit.Itch.io](https://nichefruit.itch.io)
+💾 Itch IO: [https://mesippo.Itch.io](https://mesippo.itch.io)
 
 ---
 
 ## 📂 Downloads & Resources
 
 <p align="center">
-  <a href="https://sourceforge.net/u/nichefruit/profile/">
+  <a href="https://sourceforge.net/u/mesippo/profile/">
     <img src="https://img.shields.io/badge/Downloads-SourceForge-orange?style=for-the-badge&logo=sourceforge"/>
   </a>
-  <a href="https://nichefruit.itch.io/">
+  <a href="https://mesippo.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-Projects-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white"/>
   </a>
   <a href="#">
