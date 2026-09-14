@@ -3,7 +3,7 @@
 <h1 align="center">Mesippo</h1>
 
 <p align="center">
-  <img src="appleMonkeys.png" width="450" alt="mesippo Logo"/>
+  <img src="t1.png" width="450" alt="mesippo Logo"/>
 </p>
 
 <p align="center">
