@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="appleT2.png">
 
-<h1 align="center">NicheFruit</h1>
+<h1 align="center">Mesippo</h1>
 
 <p align="center">
   <img src="appleMonkeys.png" width="450" alt="NicheFruit Logo"/>
