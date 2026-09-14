@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Kinda%20Active-brightgreen?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=mesippo&style=for-the-badge&color=red" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/mesippo?style=for-the-badge&logo=github"/>
 </p>
 
