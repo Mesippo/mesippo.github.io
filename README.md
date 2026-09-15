@@ -24,7 +24,7 @@ When I’m not programming or building projects, I enjoy exploring new ideas, te
 
 ---
 
-## 💻 Programming & Development
+## Programming & Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,github,eclipse,idea,unity"/>
@@ -40,7 +40,7 @@ When I’m not programming or building projects, I enjoy exploring new ideas, te
 
 ---
 
-## 📂 Downloads & Resources
+## Downloads & Resources
 
 <p align="center">
   <a href="https://sourceforge.net/u/mesippo/profile/">
