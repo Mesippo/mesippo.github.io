@@ -41,15 +41,15 @@ When I’m not programming or building projects, I enjoy exploring new ideas, te
 ---
 
 ## Recent Works
-> Most recent project: [Link]([url](https://github.com/Mesippo/3DCubeProjectionJava/tree/main))
+> Most recent project: [Link](https://github.com/Mesippo/3DCubeProjectionJava/tree/main)
 
 <table>
   <tr>
-    <td><img src="previews/preview1.png" width="200"></td>
-    <td><img src="previews/preview2.png" width="200"></td>
-    <td><img src="previews/preview3.png" width="200"></td>
-    <td><img src="previews/preview4.png" width="200"></td>
-    <td><img src="previews/preview5.png" width="200"></td>
+    <td><img src="previews/preview1.png" width="500"></td>
+    <td><img src="previews/preview2.png" width="500"></td>
+    <td><img src="previews/preview3.png" width="500"></td>
+    <td><img src="previews/preview4.png" width="500"></td>
+    <td><img src="previews/preview5.png" width="500"></td>
   </tr>
 </table>
 
